@@ -1,0 +1,41 @@
+PROJECT
+Interview Practice (iOS)
+ 
+Meets Specifications
+
+Targeted for Profession
+
+Answers relate back to job duties, referring to specific job requirements in the description
+At least one answer addresses the company's mission (eg: interest in education if applying to an education company like Udacity)
+The answers do relate back to job duties and referring to specific requirements. You're demonstrating an excellent knowledge of Swift and iOS and you're showing genuine enthusiasm. The answers also refer to test driven development which is crucial in iOS development (and in general in Software Development).
+
+At this point, you have finished the capstone project and you have an app on the app store. The interviewer would be very interested in knowing more about your experience in your first independent iOS project. Dedicate a paragraph or two to describe it and what challenges you may have had. This would make the response stronger.
+
+Lastly, another part of this specification ​is referring to the company's mission. The job description you've copied in the note doesn't clearly state the company's mission. It's important though to make some research before applying.
+
+In the LinkedIn​ profile of the company we read:
+
+Founded on the principle that the most satisfying mobile experiences are reflections of the collaboration between the people that create them, mobileforming seeks to shape the mobile landscape through the building of great teams.
+By referring to the importance of the team work, you implicitly referring to the company's mission. However, I would suggest acknowledging its core mission more directly.
+At least one answer demonstrates enthusiasm for learning new skills or topics in targeted field
+Answers show candidate is ready for the role; the candidate is passionate about the specific job and has the skills to succeed in the role
+The answers demonstrate a genuine enthusiasm for advancing career-wise and improving Swift and iOS skills. You do seem excited and ready for the role. I believe any interviewer would agree that your expertise is high and you have the passion for contributing to a company.
+
+For the best response, I suggest referring to more of the job requirements such as SCRUM, domain analysis, etc.
+At least one answer refers to candidate's goals within a year
+At least one answer refers to candidate's learning or career goals past one year from now
+The answers do specify a time frame. There are reasonable goals to achieve within a year. I suggest also referring to goals past one year from now. Certainly many learning goals are on-going but saying a few more words about your long-term plan should be a positive thing. Planning ahead is a valuable skill, and the interviewer would like to see this as clearly as possible.
+General
+
+Answers contain no negative language
+Answers focus on thought process and how students approaches problems
+Excellent writing style and tone.
+Technical Accuracy
+
+Technical answers are correct and produce no errors
+All the technical answers are accurate and include many details without leaving any blank spots.
+
+Only one note: Saving the "Actor" struct in the app delegate may not be the best solution. Better to create a separate model class for saving it (Remember the "On the Map" project).
+Understands function and use of View Controllers
+Swift code is clear and functional; it does what it’s supposed to do
+Provides detailed rationale for the code provided
