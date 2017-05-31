@@ -12,11 +12,11 @@ To check out my interview questions and responses:
 2. Enter the "Practice Interview Questions" directory:
 ` $ cd /PracticeInterviewQuestions-master/ `
 
-3. Open "UdacityInterviewQuesions.pdf" or "NanodegreeInterviewQuestions" in any pdf view:
+3. Open "UdacityInterviewQuesions.pdf" or "NanodegreeInterviewQuestions" in any pdf viewer:
 ` $ open UdacityInterviewQuestions.pdf `
-` $ open UdacityInterviewQuestions.pdf `
+` $ open NanodegreeInterviewQuestions.pdf `
 
-4. The files referenced in NanodegreeInterviewQuestions can be opened in XCode:
+4. Open the files referenced in NanodegreeInterviewQuestions:
 
 ` $ open ActorViewController.swift `
 ` $ open GitHubProjectViewController.swift `
@@ -28,3 +28,8 @@ My Udacity profile can be viewed here: https://profiles.udacity.com/p/3208598642
 My LinkedIn page is located at: https://www.linkedin.com/in/ginny-pennekamp/
 
 My personal website is: http://pennekamp.us/ginny/
+
+Download and check out my resume in this repo!
+
+Open "GinnyPennekampiOSDeveloper.pdf" in any pdf viewer:
+` $ open GinnyPennekampiOSDeveloper.pdf `
